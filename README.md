@@ -22,6 +22,7 @@ My greatest desire is to build a community of software developers in Tumaco, in 
 	<img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 	<img src="https://img.shields.io/badge/node%2Ejs-%2362af43.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
 	<img src="https://img.shields.io/badge/react-%2300c4e6.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+	<img src="https://img.shields.io/badge/vuejs-%23ffffff.svg?&style=for-the-badge&logo=vue.js&logoColor=green" alt="React"/>
 	<img src="https://img.shields.io/badge/angular-%23e63a21.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 	<img src="https://img.shields.io/badge/mysql-%23fafafa.svg?&style=for-the-badge&logo=mysql&logoColor=black" alt="MySql"/>
 	<img src="https://img.shields.io/badge/postgresql-%23fafafa.svg?&style=for-the-badge&logo=postgresql&logoColor=blue" alt="PostgreSQL"/>
