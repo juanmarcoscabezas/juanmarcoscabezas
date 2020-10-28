@@ -1,11 +1,11 @@
-### Hi there 👋
+Hi there 👋
 
-I am Juan Marcos
-======
+# I am Juan Marcos
+</>
 
-Software engineer with experience in C, Python, Java, Javascript, and PHP. Who has also been working with Nodejs, React, Vue, Django, and Flask.
+Software engineer.
 
-His greatest desire is to build a community of software developers in Tumaco, in order to teach people without programming knowledge, and that they can look for job opportunities in tech since unemployment rates in Tumaco are close 74%. 
+My greatest desire is to build a community of software developers in Tumaco, in order to teach people without programming knowledge, and that they can look for job opportunities in tech since unemployment rates in Tumaco are close 74%. 
 
 **You can find me on:**
 
