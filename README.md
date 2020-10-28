@@ -1,7 +1,7 @@
-Hi there 👋
+# Hi there 👋
 
-# I am Juan Marcos
-</>
+## I am Juan Marcos
+### </>
 
 Software engineer.
 
