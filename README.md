@@ -9,7 +9,7 @@ My greatest desire is to build a community of software developers in Tumaco, in 
 
 **You can find me on:**
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/juanmarcab)
+<!-- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/juanmarcab) -->
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/juanmarcoscabezas/)
 [<img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white"/>](https://twitch.tv/ricochontaduro/)
 
